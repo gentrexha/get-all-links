@@ -4,16 +4,16 @@ Fetch all links from a given website.
 
 ## Getting started
 
-Install the required project packages using pip with
+Install the required project packages using pip with:
 ```
 pip install -r requirements.txt
 ```
 
 ## Usage
 
-Scrape outputs for amounts 15000 and 25000 and months 12 and 24 with
+Get all links from www.bbc.com and save it to output.xlsx
 ```
-python get_data.py --website www.bbc.com
+python get_data.py --filename output
 ```
 
 Find more help and information with
