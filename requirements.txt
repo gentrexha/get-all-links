@@ -1,0 +1,5 @@
+selenium==4.1.0
+webdriver-manager==3.5.2
+click==7.0
+pandas==1.0.1
+openpyxl==3.0.9
